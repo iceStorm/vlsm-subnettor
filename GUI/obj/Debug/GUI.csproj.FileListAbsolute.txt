@@ -1,0 +1,51 @@
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\bin\Debug\GUI.exe
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\bin\Debug\GUI.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.fMain.resources
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.exe
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\obj\Debug\GUI.fQuickCalculate.resources
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\bin\Debug\VLSM.dll
+C:\Users\Ocean\Desktop\VLSM__Subnetter\GUI\bin\Debug\VLSM.pdb
+E:\VLSM__Subnettor\GUI\bin\Debug\GUI.exe.config
+E:\VLSM__Subnettor\GUI\bin\Debug\GUI.exe
+E:\VLSM__Subnettor\GUI\bin\Debug\GUI.pdb
+E:\VLSM__Subnettor\GUI\bin\Debug\VLSM.dll
+E:\VLSM__Subnettor\GUI\bin\Debug\VLSM.pdb
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.fMain.resources
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.fQuickCalculate.resources
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.exe
+E:\VLSM__Subnettor\GUI\obj\Debug\GUI.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.exe
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\bin\Debug\GUI.exe
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\bin\Debug\GUI.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\bin\Debug\VLSM.dll
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\bin\Debug\VLSM.pdb
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.fMain.resources
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.fQuickCalculate.resources
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ocean\Desktop\VLSM__Subnettor\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\bin\Debug\GUI.exe
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\bin\Debug\GUI.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\bin\Debug\VLSM.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\bin\Debug\VLSM.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.fAbout.resources
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.fMain.resources
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.fCalculate.resources
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.exe
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\00. Sharing\VLSM__Subnettor\GUI\obj\Debug\GUI.pdb

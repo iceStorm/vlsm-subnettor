@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLSM", "VLSM\VLSM.csproj", "{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VLSM Subnettor", "VLSM Subnettor\VLSM Subnettor.vdproj", "{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Custom|Any CPU = Custom|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-10|Any CPU = DVD-10|Any CPU
+		DVD-18|Any CPU = DVD-18|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-9|Any CPU = DVD-9|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+		WebDeployment|Any CPU = WebDeployment|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.Custom|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.DVD-10|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.DVD-18|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.DVD-9|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.SingleImage|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84EF6FF-EDB7-47D3-B478-16C3C593B49A}.WebDeployment|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.Custom|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.DVD-10|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.DVD-18|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.DVD-9|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.SingleImage|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDA525-0DB1-4464-BA13-CCF63775A6E3}.WebDeployment|Any CPU.ActiveCfg = Debug|Any CPU
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.CD_ROM|Any CPU.ActiveCfg = Release
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.Custom|Any CPU.ActiveCfg = Release
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.Debug|Any CPU.ActiveCfg = Debug
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.DVD-10|Any CPU.ActiveCfg = Debug
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.DVD-18|Any CPU.ActiveCfg = Debug
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.DVD-5|Any CPU.ActiveCfg = Debug
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.DVD-9|Any CPU.ActiveCfg = Debug
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.Release|Any CPU.ActiveCfg = Release
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.SingleImage|Any CPU.ActiveCfg = Release
+		{A452A027-EB1F-4726-ACA0-B7DC814DB8A0}.WebDeployment|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
