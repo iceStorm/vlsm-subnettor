@@ -366,5 +366,51 @@ namespace GUI
             fAbout formAbout = new fAbout();
             formAbout.ShowDialog();
         }
+
+        private void btn_saveToFile_Click(object sender, EventArgs e)
+        {
+            IPv4 ip = GetEnteredIP();
+            List<Branch> branches = GetEnteredBranches();
+
+
+            if (CheckBeforeCalculate() == true)
+            {
+                if (branches != null)
+                {
+
+                    SaveFileDialog sfd = new SaveFileDialog();
+                    sfd.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+                    sfd.InitialDirectory = Path.GetFullPath(Application.StartupPath + $"/Data/");
+                    DialogResult rs = sfd.ShowDialog();
+
+
+                    if (rs == DialogResult.OK)
+                    {
+                        MessageBox.Show($"Saved {Path.GetFileName(sfd.FileName)} successfully !");
+                        SaveToFile(sfd.FileName, ip, branches);
+                    }
+                }
+            }
+        }
+
+        private void SaveToFile(string path, IPv4 ip, List<Branch> branches)
+        {
+            FileStream fs = new FileStream(path, FileMode.OpenOrCreate);
+            StreamWriter sw = new StreamWriter(fs);
+
+
+            sw.WriteLine($"{ip.ToDecimalString()}/{ip.Suffix}");
+            for (int i = 0; i < branches.Count; ++i)
+            {
+                sw.Write($"{branches[i].Name}:{branches[i].HostsAmount}");
+                if (i != branches.Count - 1)
+                    sw.WriteLine();
+            }
+
+
+            sw.Close();
+            fs.Close();
+        }
+
     }
 }

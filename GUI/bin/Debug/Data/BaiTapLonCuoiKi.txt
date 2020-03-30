@@ -1,0 +1,10 @@
+10.0.0.0/16
+LanA:30
+LanB:75
+LanC:30
+LanD:14
+LanE:6
+R1R2:2
+R1R3:2
+R1R4:2
+R4R5:2

@@ -46,9 +46,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(77, 99);
+            this.label1.Location = new System.Drawing.Point(103, 122);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(129, 20);
+            this.label1.Size = new System.Drawing.Size(163, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Application name";
             // 
@@ -56,9 +57,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(77, 179);
+            this.label3.Location = new System.Drawing.Point(103, 220);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 20);
+            this.label3.Size = new System.Drawing.Size(119, 25);
             this.label3.TabIndex = 0;
             this.label3.Text = "Release date";
             // 
@@ -66,9 +68,10 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(77, 219);
+            this.label4.Location = new System.Drawing.Point(103, 270);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(57, 20);
+            this.label4.Size = new System.Drawing.Size(72, 25);
             this.label4.TabIndex = 0;
             this.label4.Text = "Author";
             // 
@@ -76,9 +79,10 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(222, 399);
+            this.label5.Location = new System.Drawing.Point(296, 491);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(147, 20);
+            this.label5.Size = new System.Drawing.Size(187, 25);
             this.label5.TabIndex = 0;
             this.label5.Text = "</> by C# with Love";
             // 
@@ -87,9 +91,10 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.label6.Location = new System.Drawing.Point(294, 219);
+            this.label6.Location = new System.Drawing.Point(392, 270);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(134, 20);
+            this.label6.Size = new System.Drawing.Size(166, 25);
             this.label6.TabIndex = 0;
             this.label6.Text = "Nguyen Anh Tuan";
             // 
@@ -98,20 +103,22 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.label7.Location = new System.Drawing.Point(294, 179);
+            this.label7.Location = new System.Drawing.Point(392, 220);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(85, 20);
+            this.label7.Size = new System.Drawing.Size(116, 25);
             this.label7.TabIndex = 0;
-            this.label7.Text = "30-01-2020";
+            this.label7.Text = "30-03-2020";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.label9.Location = new System.Drawing.Point(294, 99);
+            this.label9.Location = new System.Drawing.Point(392, 122);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 20);
+            this.label9.Size = new System.Drawing.Size(151, 25);
             this.label9.TabIndex = 0;
             this.label9.Text = "VLSM Subnettor";
             // 
@@ -119,9 +126,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(77, 139);
+            this.label2.Location = new System.Drawing.Point(103, 171);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 20);
+            this.label2.Size = new System.Drawing.Size(75, 25);
             this.label2.TabIndex = 0;
             this.label2.Text = "Version";
             // 
@@ -130,19 +138,21 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.label8.Location = new System.Drawing.Point(294, 139);
+            this.label8.Location = new System.Drawing.Point(392, 171);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(29, 20);
+            this.label8.Size = new System.Drawing.Size(39, 25);
             this.label8.TabIndex = 0;
-            this.label8.Text = "1.0";
+            this.label8.Text = "2.0";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(77, 259);
+            this.label10.Location = new System.Drawing.Point(103, 319);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(61, 20);
+            this.label10.Size = new System.Drawing.Size(79, 25);
             this.label10.TabIndex = 0;
             this.label10.Text = "Contact";
             // 
@@ -152,9 +162,10 @@
             this.lb_facebook.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lb_facebook.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_facebook.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_facebook.Location = new System.Drawing.Point(295, 259);
+            this.lb_facebook.Location = new System.Drawing.Point(393, 319);
+            this.lb_facebook.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_facebook.Name = "lb_facebook";
-            this.lb_facebook.Size = new System.Drawing.Size(229, 20);
+            this.lb_facebook.Size = new System.Drawing.Size(287, 25);
             this.lb_facebook.TabIndex = 0;
             this.lb_facebook.Text = "facebook.com/hauduedaiduong";
             this.lb_facebook.Click += new System.EventHandler(this.lb_facebook_Click);
@@ -165,17 +176,18 @@
             this.lb_email.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lb_email.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_email.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_email.Location = new System.Drawing.Point(295, 290);
+            this.lb_email.Location = new System.Drawing.Point(393, 357);
+            this.lb_email.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_email.Name = "lb_email";
-            this.lb_email.Size = new System.Drawing.Size(198, 20);
+            this.lb_email.Size = new System.Drawing.Size(253, 25);
             this.lb_email.TabIndex = 0;
             this.lb_email.Text = "anhtuan3675@outlook.com";
             // 
             // fAbout
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(589, 439);
+            this.ClientSize = new System.Drawing.Size(785, 540);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
@@ -188,9 +200,11 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "fAbout";
+            this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Resizable = false;
             this.ShadowType = MetroFramework.Forms.MetroFormShadowType.None;
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
